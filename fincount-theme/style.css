@@ -1,0 +1,16 @@
+/*
+Theme Name: FinCount Pro Accounting
+Theme URI: https://fincount.id/
+Author: FinCount Developer Team
+Author URI: https://fincount.id/
+Description: Tema WordPress modern, cepat, dan profesional untuk software akuntansi FinCount. Dilengkapi modul produk lengkap, form kontak AJAX email, blog siap pakai, integrasi Google Maps, dan optimasi SEO bawaan.
+Version: 2.5.0
+Requires at least: 6.0
+Tested up to: 6.7
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+Text Domain: fincount-theme
+Tags: accounting, business, software, responsive-layout, custom-menu, featured-images, full-width-template, translation-ready
+*/
+
+@import url('../assets/css/style.css');
